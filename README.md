@@ -2,6 +2,6 @@
 
 Hello
 
-#Section1
+#NEW SECTION
 
 This is a new section
