@@ -1,6 +1,6 @@
 # D3Lab5
 
-Hello
+Hello! Welcome to my ReadMe.
 
 #Section1
 
