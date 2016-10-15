@@ -2,6 +2,6 @@
 
 Hello! Welcome to my ReadMe.
 
-#NEW SECTION
+#New Section
 
 This is a new section
